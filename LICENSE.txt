@@ -1,0 +1,37 @@
+Georgia Motion AI — Commercial Software License Agreement
+
+Copyright (c) 2025 John Phillips. All rights reserved.
+
+This software, including all associated source code, documentation, and assets (the "Software"), is the proprietary property of John Phillips. It is licensed, not sold.
+
+By downloading, installing, or using the Software, you agree to the following terms:
+
+1. LICENSE GRANT
+You are granted a limited, non-transferable, non-exclusive license to use the Software for personal or internal business use only.
+
+2. RESTRICTIONS
+You may NOT:
+- Copy, distribute, or sublicense the Software
+- Sell, rent, lease, or offer the Software as part of a competing product or service
+- Reverse engineer, decompile, or create derivative works from the Software
+- Use the Software to build similar or competing tools
+
+3. COMMERCIAL USE
+You MAY:
+- Use the Software to generate legal documents and sell those outputs to end users via your own platform
+- Deploy the Software for use in a subscription-based service
+
+4. OWNERSHIP
+All rights, title, and interest in the Software remain with the copyright holder.
+
+5. DISCLAIMER
+This Software is provided “as is,” without warranty of any kind. The copyright holder is not responsible for any legal outcomes resulting from use of the generated content.
+
+6. LEGAL NOTICE
+This Software does not provide legal advice. No attorney-client relationship is formed. Users are advised to consult a licensed attorney before relying on any output for legal purposes.
+
+7. TERMINATION
+Violation of this agreement will result in immediate termination of this license and may lead to legal action.
+
+Contact: legal@yourdomain.com for enterprise or partner licensing.
+
